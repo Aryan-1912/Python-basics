@@ -1,0 +1,1 @@
+cd "C:\data analyst bootcamp\python\1-Python Basics"
